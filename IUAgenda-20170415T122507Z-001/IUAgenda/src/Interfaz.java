@@ -121,7 +121,7 @@ public class Interfaz extends javax.swing.JFrame {
         panelPrincipal.setPreferredSize(new java.awt.Dimension(270, 450));
         panelPrincipal.setLayout(new java.awt.CardLayout());
 
-        pantallaPrincipal.setBackground(new java.awt.Color(0, 51, 255));
+        pantallaPrincipal.setBackground(new java.awt.Color(153, 255, 51));
         pantallaPrincipal.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         añadir.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/1492014114_add.png"))); // NOI18N
